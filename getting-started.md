@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Getting Started with Ozone
 order: 2
 ---
