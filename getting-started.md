@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started with Ozone 2
+title: Getting Started with Ozone 3
 order: 2
 ---
 
