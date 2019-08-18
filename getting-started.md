@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Getting Started with Ozone
 ---
 
