@@ -13,6 +13,9 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 
 ## Setup Guide
 
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/a/ozoneproject.com/uc?id=1rSg8AeGrSVYJ_KrG2OPz-QvniqO2QVg3&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://www.draw.io/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fa%2Fozoneproject.com%2Fuc%3Fid%3D1rSg8AeGrSVYJ_KrG2OPz-QvniqO2QVg3%26export%3Ddownload"></script>
+
 ### Fork this repository
 
 [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
