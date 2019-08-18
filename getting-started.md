@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Getting Started with Ozone
+order: 2
 ---
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
